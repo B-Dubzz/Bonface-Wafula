@@ -6,7 +6,7 @@ My Portfolio
 
 3rd year student passionate about tech projects, artificial intelligence, machine learning, and designing simple electronic devices.
 
----
+--
 
 ## What I Do
 
