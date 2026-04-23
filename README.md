@@ -1,12 +1,10 @@
-# Bonface-Wafula
-My Portfolio 
 # Bonface Wafula
 
 **Electrical & Electronics Engineering Student | Tech Enthusiast | AI & Hardware Explorer**
 
 3rd year student passionate about tech projects, artificial intelligence, machine learning, and designing simple electronic devices.
 
---
+---
 
 ## What I Do
 
@@ -28,6 +26,7 @@ Building and documenting projects at the intersection of hardware and software.
 - What components you used
 - What you learned
 
+---
 
 ## What I'm Learning Right Now
 
@@ -39,10 +38,11 @@ Building and documenting projects at the intersection of hardware and software.
 
 ## Connect With Me
 
-- Email: bonfacewafula256@gmail.com
-- Location: Kajiado, Kenya.
-- Institution: Electrical & Electronics Engineering, South Eastern Kenya University.
+- **Email:** bonfacewafula256@gmail.com
+- **WhatsApp:** 0712898486
+- **Twitter:** https://x.com/bonny_nitez
+- **Instagram:** https://www.instagram.com/_.bon_ny.__?igsh=b3AzMnFuYm5hdmlx
+- **Location:** Kajiado, Kenya
+- **Institution:** Electrical & Electronics Engineering, South Eastern Kenya University
 
----
-
-*This portfolio will grow as I do — more projects and notes coming soon.*
+> I'm open to tech collaborations, AI discussions, and hardware project ideas — feel free to reach out.
