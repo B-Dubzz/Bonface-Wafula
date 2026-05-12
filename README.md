@@ -228,7 +228,7 @@
         <img src="https://via.placeholder.com/150/ff8c00/000000?text=BONFACE" alt="Bonface Wafula" class="profile-img" id="profileImage">
         <div class="profile-text">
             <p><i class="fas fa-quote-left" style="color:#ff8c00; margin-right:8px;"></i> 
-            3rd year engineering student passionate about tech projects, artificial intelligence, machine learning, and designing simple electronic devices. I merge hardware with intelligence to solve real problems.</p>
+            4th year engineering student passionate about tech projects, artificial intelligence, machine learning, and designing simple electronic devices. I merge hardware with intelligence to solve real problems.</p>
             <p><strong> Kitui, Kenya</strong> | <strong> South Eastern Kenya University</strong></p>
         </div>
     </div>
